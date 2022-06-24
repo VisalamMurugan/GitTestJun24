@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 74C9-19DF
+
+ Directory of C:\GitTest\Git1
+
+06/24/2022  02:34 PM    <DIR>          .
+06/24/2022  02:34 PM    <DIR>          ..
+06/24/2022  02:34 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  432,966,578,176 bytes free
